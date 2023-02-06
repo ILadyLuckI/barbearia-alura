@@ -6,7 +6,7 @@ O objetivo deste projeto foi aprender conceitos sobre html5 e css3.
 | -------------  | --- |
 | :sparkles: Daiana        | **Site Barbearia Alura**
 | :label: Tecnologias | html5, css3
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://golden-tiramisu-87f2c6.netlify.app
 | :mortar_board: certificado     | https://cursos.alura.com.br/user/dai-koblitz/course/html5-css3-primeiros-passos/certificate 🎓
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
