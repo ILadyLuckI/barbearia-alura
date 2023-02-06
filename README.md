@@ -10,7 +10,7 @@ O objetivo deste projeto foi aprender conceitos sobre html5 e css3.
 | :mortar_board: certificado     | https://cursos.alura.com.br/user/dai-koblitz/course/html5-css3-primeiros-passos/certificate 🎓
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/69736274/217009119-e9e36cae-7806-43e6-9af8-e73b9f0f527f.jpg#vitrinedev)
+![](https://user-images.githubusercontent.com/69736274/217014001-57a9486f-4ca5-4874-86fa-8966f95422c5.gif#vitrinedev)
 
 ---
 
